@@ -1,5 +1,3 @@
-#ConceptNet
-
 # ConceptNet Regional Intelligence Extension
 
 > ConceptNet — A multidimensional network of regional knowledge, identity, history, and mythological intelligence.
