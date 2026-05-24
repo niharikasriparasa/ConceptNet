@@ -1,6 +1,6 @@
 #ConceptNet 
 
-Gruhasth Jeevan
+Grihastha Jeevan
 
 
 
