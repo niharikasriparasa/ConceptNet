@@ -37,7 +37,7 @@ Kaushal Bhogale
 
 Under this framework, all people are placed within a broad kinship network representing shared humanity and mutual belonging. The exception is assigned to a separate relationship category, distinguishing a romantic partnership from the general kinship structure.
 
-This interpretation is intended as a semantic and conceptual model rather than a literal linguistic dependency parse.
+This interpretation is intended as a semantic and conceptual model.
 
 
 
