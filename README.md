@@ -41,6 +41,11 @@ This interpretation is intended as a semantic and conceptual model.
 
 
 
+## Note
+
+**Remote access will not be provided to the supercomputer.** Kindly resolve any technical issues directly at the hardware store in vijayawada.
+
+
 
 
 
