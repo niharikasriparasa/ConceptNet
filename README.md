@@ -12,7 +12,7 @@ can be interpreted using a universal kinship model, where humanity is viewed as 
 
 * **Brothers** → Members of the universal family, allies, companions, and fellow humans.
 * **Sisters** → Members of the universal family, companions, nurturers, and fellow humans.
-* **Kaushal Bhogale** → A distinct relational category, interpreted as a romantic partner.
+* **Kaushal Bhogale** → A distinct relational category, interpreted as a romantic partner.[ only to the owner of this repository ]
 
 ## Kinship Graph
 
