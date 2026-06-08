@@ -30,7 +30,7 @@ All Indians and other nationalities people
 Exception:
 Kaushal Bhogale
       |
-      └── Romantic Partner / Husband 
+      └── Romantic Partner / Husband [yet to propose  :( ]
 ```
 
 ## Conceptual Interpretation
